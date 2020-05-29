@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AAAAFF</color>
+    <color name="colorPrimaryDark">#7777D3</color>
+    <color name="colorAccent">#AAAAFF</color>
+    <color name="loginButtonPressed">#8A8ADF</color>
+    <color name="unable">#BBBBDB</color>
+    <color name="chatroomBackground">#88AAAAFF</color>
+    <color name="darkBackground">#808A8AAF</color>
+    <color name="transparent">#00000000</color>
+    <color name="commentColor">#000000</color>
+    <color name="chatTimeColor">#666666</color>
+    <color name="colorInvite">#88AAAAFF</color>
+    <color name="colorInvitePressed">#887777CC</color>
+</resources>

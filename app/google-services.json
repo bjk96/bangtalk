@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978880472092",
+    "firebase_url": "https://bangtalk-29866.firebaseio.com",
+    "project_id": "bangtalk-29866",
+    "storage_bucket": "bangtalk-29866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978880472092:android:7b8470fdfa63600578ebd9",
+        "android_client_info": {
+          "package_name": "com.bang.bangtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978880472092-v6g6boc4gkv56muaqm2v9ml3q3r43a5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bang.bangtalk",
+            "certificate_hash": "943026ae71fde01d507dca326a29eb8e883204ac"
+          }
+        },
+        {
+          "client_id": "978880472092-pvjnoq7bhed79jcef4117g8hltt22l4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTdp_ZxF7wZI-zBR3HvolA3B-O42fuK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978880472092-pvjnoq7bhed79jcef4117g8hltt22l4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
